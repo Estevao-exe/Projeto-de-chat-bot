@@ -39,7 +39,7 @@ Para garantir que a IA se comporte de maneira ética e segura (essencial na áre
 * **Restrição de Escopo (Guardrails):** O bot foi programado para recusar tentativas de diagnósticos definitivos ou prescrição de medicamentos.
 * **Tom de Voz:** Empático, acolhedor, direto e estritamente profissional.
 * **Ações de Emergência:** Caso o usuário mencione sintomas de alta gravidade (como dor forte no peito ou falta de ar aguda), o fluxo intercepta a conversa e instrui a busca imediata por um pronto-socorro.
-* **você so pode acessar o chat-bot com uma chaveAPI, que é disponibilizada no GROQ_API
+* **você so pode acessar o chat-bot com uma chaveAPI, que é disponibilizada no GROQ_API**
 
 ---
 
