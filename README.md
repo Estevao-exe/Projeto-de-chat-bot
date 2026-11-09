@@ -112,9 +112,11 @@ Desenvolvido por **Estevão** **Danie** **Nicolas**
   
 - [GitHub Estevão](https://github.com/Estevão-exe)
 - [GitHub Daniel](https://github.com/Danyel-xp)
-- [GitHub Nicolas](https://github.com/NycolaswebMaster)
-
+- [GitHub Nicolas](https://github.com/NicolasWebMaster)
 ---
+
+
+
 
 ⭐ Se este projeto despertou seu interesse, considere deixar uma estrela no repositório!
 
