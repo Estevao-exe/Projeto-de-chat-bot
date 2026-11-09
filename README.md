@@ -110,9 +110,9 @@ Desenvolvido por **Estevão** **Danie** **Nicolas**
 
 <!--[LinkedIn](https://www.linkedin.com/in/estevão-figueiredo-garcia-8013963a3/)-->
   
-- [GitHub Estevão](https://github.com/Estevão-exe)
-- [GitHub Daniel](https://github.com/Danyel-xp)
-- [GitHub Nicolas](https://github.com/NicolasWebMaster)
+- [![GitHub](https://img.shields.io/badge/GitHub-Estevão-181717?logo=github&logoColor=white)](https://github.com/Estevão-exe)
+- [![GitHub](https://img.shields.io/badge/GitHub-Daniel-181717?logo=github&logoColor=white)](https://github.com/Danyel-xp)
+- [![GitHub](https://img.shields.io/badge/GitHub-Nicolas-181717?logo=github&logoColor=white)](https://github.com/NicolasWebMaster)
 ---
 
 
